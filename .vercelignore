@@ -1,0 +1,9 @@
+# .vercelignore
+*.pt
+*.h5
+*.onnx
+*.pkl
+datasets/
+models/
+notebooks/
+temp/
